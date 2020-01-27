@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f68148-feed-4b9c-8928-ff1eead3c084" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password-checker" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -10,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordChecker-Logging" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordChecker-Logging" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Password.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Password.java" afterDir="false" />
@@ -44,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -86,7 +90,19 @@
       <option name="presentableId" value="Default" />
       <updated>1579005720452</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1579513455587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579513455587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1579005796373">
@@ -97,43 +113,37 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1579005832820" />
-    <state width="1253" height="355" key="GridCell.Tab.0.bottom" timestamp="1579513384944">
+    <state x="266" y="27" width="890" height="741" key="CommitChangelistDialog2" timestamp="1579513455438">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="355" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579513384944" />
-    <state width="1253" height="355" key="GridCell.Tab.0.center" timestamp="1579513384944">
+    <state x="266" y="27" width="890" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579513455438" />
+    <state width="1253" height="228" key="GridCell.Tab.0.bottom" timestamp="1580138134857">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="355" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579513384944" />
-    <state width="1253" height="355" key="GridCell.Tab.0.left" timestamp="1579513384943">
+    <state width="1253" height="228" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580138134857" />
+    <state width="1253" height="228" key="GridCell.Tab.0.center" timestamp="1580138134857">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="355" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579513384943" />
-    <state width="1253" height="355" key="GridCell.Tab.0.right" timestamp="1579513384944">
+    <state width="1253" height="228" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580138134857" />
+    <state width="1253" height="228" key="GridCell.Tab.0.left" timestamp="1580138134856">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="355" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579513384944" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579505965516">
+    <state width="1253" height="228" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580138134856" />
+    <state width="1253" height="228" key="GridCell.Tab.0.right" timestamp="1580138134857">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579505965516" />
-    <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579513423075">
+    <state width="1253" height="228" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580138134857" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1580138753022">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1579513423075" />
-    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1579510937454">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1580138753022" />
+    <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580132260044">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579510937454" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/main.java</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1580132260044" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1579593451362">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579593451362" />
   </component>
 </project>

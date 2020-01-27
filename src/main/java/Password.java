@@ -1,17 +1,15 @@
 import java.util.*;
 public class Password {
 
-
-    boolean PasswordExist(String password) {
-        return password.length() >= 1;
+    boolean PasswordExist(String password) {return password.length() !=0;
     }
 
     boolean PasswordLength (String password) {
-        return password.length() >8;
+        return password.length() > 8;
     }
 
     boolean PasswordHasLowercase (String password) {
-        for (int i =1; i <=password.length(); i++) {
+        for (int i =1; i <=password.length()-1; i++) {
             if (Character.isLowerCase(password.charAt(i))) {
                 return true;
             }
@@ -20,12 +18,13 @@ public class Password {
     }
 
     boolean PasswordHasUppercase (String password) {
+        boolean result = false;
         for (int i = 0; i < password.length(); i++) {
             if (Character.isUpperCase(password.charAt(i))) {
-                return true;
+                result = true;
             }
         }
-        return false;
+        return result;
     }
 
     boolean PasswordHasDigit (String password) {
@@ -46,13 +45,10 @@ public class Password {
         return false;
     }
 
-   public void PasswordIsValid() {
-       System.out.println("Enter password.");
-       Scanner sc = new Scanner(System.in);
-       String password = sc.nextLine();
+   public void PasswordIsValid(String password) {
 
         if (!PasswordExist(password)) {
-            System.out.println(" Password should exist");
+            System.out.println("Password should exist");
         }
         if (!PasswordLength(password)) {
             System.out.println("Password should be longer than 8 characters");
@@ -92,14 +88,19 @@ public class Password {
         if (PasswordHasSpecialCharacter(password)) {
             counter++;
         }
-
-        if (!(PasswordLength(password) && PasswordLength(password))) {
-            System.err.println("Password is never accepted if at least 3 conditions are not met.");
+        if (!PasswordLength(password)){
+            System.out.println("Password is not ok");
+;           return false;
         }
 
-        return counter >= 3;
+            System.out.println("Password is ok ");
+            return counter > 3 || counter == 3;
+
+    }
+
+
     }
 
 
 
-}
+
