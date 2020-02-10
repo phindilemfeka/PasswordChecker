@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f68148-feed-4b9c-8928-ff1eead3c084" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password-checker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PasswordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PasswordChecker-Logging" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordChecker-Logging" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordChecker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordChecker-Logging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Password.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Password.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
@@ -23,15 +29,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -49,11 +66,22 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PasswordTest.PasswordIsOkTest">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="PasswordChecker.main" />
@@ -61,8 +89,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PasswordTest.PasswordIsOkTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest.PasswordIsOkTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordTest.PasswordIsValidTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest.PasswordIsValidTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PasswordTest.PasswordIsOkTest" />
+        <item itemvalue="Gradle.PasswordTest.PasswordIsValidTest" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -109,41 +179,77 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1579005796373" />
-    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579005832820">
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581323296562">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1579005832820" />
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1581323296562" />
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1581323200973">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1299.741@67.27.1299.741" timestamp="1581323200973" />
     <state x="266" y="27" width="890" height="741" key="CommitChangelistDialog2" timestamp="1579513455438">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="266" y="27" width="890" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579513455438" />
-    <state width="1253" height="228" key="GridCell.Tab.0.bottom" timestamp="1580138134857">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581323052833">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580138134857" />
-    <state width="1253" height="228" key="GridCell.Tab.0.center" timestamp="1580138134857">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581323052833" />
+    <state width="1253" height="228" key="GridCell.Tab.0.bottom" timestamp="1581324633200">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580138134857" />
-    <state width="1253" height="228" key="GridCell.Tab.0.left" timestamp="1580138134856">
+    <state width="1253" height="228" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581324633200" />
+    <state width="1253" height="228" key="GridCell.Tab.0.center" timestamp="1581324633199">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580138134856" />
-    <state width="1253" height="228" key="GridCell.Tab.0.right" timestamp="1580138134857">
+    <state width="1253" height="228" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581324633199" />
+    <state width="1253" height="228" key="GridCell.Tab.0.left" timestamp="1581324633199">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580138134857" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1580138753022">
+    <state width="1253" height="228" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581324633199" />
+    <state width="1253" height="228" key="GridCell.Tab.0.right" timestamp="1581324633200">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1580138753022" />
+    <state width="1253" height="228" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581324633200" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1581323323165">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581323323165" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1581323323165">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1581323323165" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1581323323165">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1581323323165" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1581323323165">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1581323323165" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1581321071432">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1581321071432" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581322048213">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581322048213" />
     <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580132260044">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="484" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1580132260044" />
+    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581323642791">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1581323642791" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1579593451362">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1579593451362" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PasswordChecker$PasswordTest_PasswordIsOkTest.ic" NAME="PasswordTest.PasswordIsOkTest Coverage Results" MODIFIED="1581323971691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/PasswordChecker$PasswordTest_PasswordIsValidTest.ic" NAME="PasswordTest.PasswordIsValidTest Coverage Results" MODIFIED="1581324090054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

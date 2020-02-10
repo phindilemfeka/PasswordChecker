@@ -1,4 +1,3 @@
-import java.util.*;
 public class Password {
 
     boolean PasswordExist(String password) {return password.length() !=0;
@@ -45,7 +44,7 @@ public class Password {
         return false;
     }
 
-   public void PasswordIsValid(String password) {
+   public boolean PasswordIsValid(String password) {
 
         if (!PasswordExist(password)) {
             System.out.println("Password should exist");
@@ -65,7 +64,8 @@ public class Password {
         if (!PasswordHasSpecialCharacter(password)) {
             System.out.println("Password should contain at least one special character");
         }
-    }
+       return false;
+   }
 
     public boolean PasswordIsOk(String password) {
         int counter = 0;
