@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f68148-feed-4b9c-8928-ff1eead3c084" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/PasswordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -12,15 +11,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PasswordChecker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PasswordChecker-Logging" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Password.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Password.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
@@ -81,7 +74,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.PasswordTest.PasswordIsOkTest">
+  <component name="RunManager" selected="Application.main">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="PasswordChecker.main" />
@@ -195,22 +188,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581323052833" />
-    <state width="1253" height="228" key="GridCell.Tab.0.bottom" timestamp="1581324633200">
+    <state width="1253" height="2" key="GridCell.Tab.0.bottom" timestamp="1583846869870">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581324633200" />
-    <state width="1253" height="228" key="GridCell.Tab.0.center" timestamp="1581324633199">
+    <state width="1253" height="2" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583846869870" />
+    <state width="1253" height="2" key="GridCell.Tab.0.center" timestamp="1583846869870">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581324633199" />
-    <state width="1253" height="228" key="GridCell.Tab.0.left" timestamp="1581324633199">
+    <state width="1253" height="2" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583846869870" />
+    <state width="1253" height="2" key="GridCell.Tab.0.left" timestamp="1583846869870">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581324633199" />
-    <state width="1253" height="228" key="GridCell.Tab.0.right" timestamp="1581324633200">
+    <state width="1253" height="2" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583846869870" />
+    <state width="1253" height="2" key="GridCell.Tab.0.right" timestamp="1583846869870">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="228" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581324633200" />
+    <state width="1253" height="2" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583846869870" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1581323323165">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
